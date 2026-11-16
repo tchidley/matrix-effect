@@ -4,9 +4,7 @@
 
 A lightweight, customizable Matrix falling code animation built in two versions: a smooth **HTML5 Canvas web version** and a zero-dependency **Python terminal script**.
 
-![HTML5](https://shields.io)
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
+
 
 ## ✨ Features
 * **Web Version (`index.html`):** Smooth 30fps HTML5 `<canvas>` animation with glowing fade trails that automatically adapts to any screen size.
