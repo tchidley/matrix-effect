@@ -1,6 +1,5 @@
 # 🟢 Matrix Digital Rain Effect
 
-![Matrix Rain Demo](demo.gif)
 
 
 A lightweight, customizable Matrix falling code animation built in two versions: a smooth **HTML5 Canvas web version** and a zero-dependency **Python terminal script**.
